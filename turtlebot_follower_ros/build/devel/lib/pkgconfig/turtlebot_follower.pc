@@ -1,0 +1,8 @@
+prefix=/home/nhantastrew/catkin_ws/src/turtlebot_follower/build/devel
+
+Name: turtlebot_follower
+Description: Description of turtlebot_follower
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
