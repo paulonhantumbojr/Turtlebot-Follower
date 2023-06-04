@@ -1,9 +1,9 @@
 # Turtlebot3 Follower Code
 
 This repository provides code for a Turtlebot3 waffle pi follower project. The project aims to have two turtlebot waffle pi versions, one guiding and the other following the guide based on a pattern mounted in it. The members responsible for developing this project are:
-- Matthew Spender (@mspenr) -  Contribution: 33.33%
-- Julian Taffa (@V370c1ty) - Contribution: 33.33%
-- Paulo Nhantumbo Junior (@pnhantumbojr) - Contribution: 33.33%
+- Matthew Spender (@mspenr) 
+- Julian Taffa (@V370c1ty)
+- Paulo Nhantumbo Junior (@pnhantumbojr)
 
 # Execution
 The code is set up in two ways, choose either that suits better depending on the language you are familiarised with.
