@@ -6,7 +6,7 @@ This repository provides code for a Turtlebot3 waffle pi follower project. The p
 - Paulo Nhantumbo Junior (@pnhantumbojr)
 
 # Execution
-The code is set up in two ways, choose either that suits better depending on the language you are familiarised with.
+The code is set up in two ways, choose either that suits better depending on the language you are familiarised with. More details can be found [here](https://portfolium.com.au/entry/turtebot-follower-robofield-project).
 
 ## MATLAB Execution
 To run, the MATLAB Setup makes use of the MATLAB Image Processing and Computer Vision Toolboxes to acquire the features from the environment. Before starting, ensure that the [Image Processing Toolbox](https://au.mathworks.com/products/image.html), [Computer Vision Toolbox](https://au.mathworks.com/products/computer-vision.html), and [ROS Toolbox](https://au.mathworks.com/products/ros.html) are installed. 
